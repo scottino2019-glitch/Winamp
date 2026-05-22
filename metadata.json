@@ -1,0 +1,6 @@
+{
+  "name": "Winamp Audio Player",
+  "description": "Un riproduttore audio interattivo in stile Winamp con skin personalizzabili, playlist avanzate, caricamento di file/cartelle e spettrometro visualizzatore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
